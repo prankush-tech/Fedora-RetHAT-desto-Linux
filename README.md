@@ -1,7 +1,7 @@
 # Fedora-RetHAT-desto-Linux
 
 CONTROL GPU FAN
-###  Open a terminal in your home directory and enter the following commands:
+## Open a terminal in your home directory and enter the following commands:
 
 ```
 sudo dnf upgrade
@@ -27,7 +27,7 @@ sudo isw -b off
 sudo isw -b on
 ```
 
-#Install NVIDIA DRIVER in REDHAT
+## Install NVIDIA DRIVER in REDHAT
 ```
 sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
 sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
