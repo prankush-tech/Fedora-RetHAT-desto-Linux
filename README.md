@@ -1,4 +1,4 @@
-# Fedora-RetHAT-desto-Linux
+# Fedora-RetHAT-distro-Linux
 
 CONTROL GPU FAN
 ## Open a terminal in your home directory and enter the following commands:
