@@ -48,4 +48,8 @@ sudo dnf install xorg-x11-drv-nvidia-cuda
 sudo dnf config-manager --set-enabled rpmfusion-nonfree-nvidia-driver
 ```
 
+Chrome PRofile error
+```
+rm -rf ~/.config/google-chrome/Singleton*
+```
 
